@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-Thin.woff2") format("woff2");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-Light.woff2") format("woff2");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-Regular.woff2") format("woff2");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-Medium.woff2") format("woff2");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-Bold.woff2") format("woff2");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "barlow";
+  src: url("./Barlow-Black.woff2") format("woff2");
+  font-weight: 900;
+}
+
+body {
+  font-family: "barlow";
+}
+
+.fw-100 {
+  font-weight: 100;
+}
+.fw-200 {
+  font-weight: 200;
+}
+.fw-300 {
+  font-weight: 300;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fw-800 {
+  font-weight: 800;
+}
+.fw-900 {
+  font-weight: 900;
+}
